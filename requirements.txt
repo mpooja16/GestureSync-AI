@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+SpeechRecognition
+PyAutoGUI
+PyAudio
+
+
+use the versions that actually work in your environment rather than blindly copying every package from pip freeze.
